@@ -1,0 +1,6 @@
+framework module Pods_NewDangerSnapshottingTests {
+  umbrella header "Pods-NewDangerSnapshottingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
